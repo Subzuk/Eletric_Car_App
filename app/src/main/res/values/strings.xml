@@ -11,4 +11,8 @@
     <string name="valor_potencia">646 CV</string>
     <string name="recarga">Recarga</string>
     <string name="tempo_recarga">50min</string>
+    <string name="preco_kwh">Preço Kwh</string>
+    <string name="km_percorrigo">Km Percorrigo</string>
+    <string name="calcular">Calcular</string>
+    <string name="novaTela">Nova Tela</string>
 </resources>
